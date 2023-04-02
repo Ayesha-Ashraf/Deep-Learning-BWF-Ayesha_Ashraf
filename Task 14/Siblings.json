@@ -1,0 +1,7 @@
+
+{'name':'Ayesha',
+ 'placed_lived':['united states','Spain','Germany'],
+ 'pet':None,
+ 'siblings':[{"name":'Muzmi',"age":24,"pets":['Zuko','Zeus']},
+             {"age":19, "name":'Aqsa', "pets":['sixes','stache','cisco']}]
+}
