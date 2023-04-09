@@ -1,0 +1,11 @@
+transport=['Car','Bus','rickshaw','van','Motorcycle']
+meassage1=("i want to buy a new\t"+transport[0])
+meassage2=("i go to trip on a\t"+transport[1])
+meassage3=("i go to school in a\t"+transport[2])
+meassage4=("i go to the university from \t"+transport[3])
+meassage5=("i want to drive the \t"+transport[4])
+print(meassage1)
+print(meassage2)
+print(meassage3)
+print(meassage4)
+print(meassage5)
