@@ -1,0 +1,5 @@
+https://scikit-learn.org/stable/modules/naive_bayes.html
+
+https://scikit-learn.org/stable/modules/tree.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
