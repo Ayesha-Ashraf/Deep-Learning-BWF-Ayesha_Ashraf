@@ -56,3 +56,21 @@ Topics: KNN Classifier Using Scikit-Learn
 
 Task 18
 Topics: Naïve Bayes Implementation, Decision Tree Implementation
+
+Task 19
+Topics: Introduction to Deep Learning,  Building Block of Deep Learning, A look on Neural Network, Tensor Operations
+
+Task 20
+Topics: Introduction to Keras, Example Projects on Classification and Regression
+
+
+Task 21
+Topics: "Baat Cheet, discussion, and reporting"
+
+Task 22
+Topics: Supervised, Unsupervised, Self-Supervised, and Reinforcement Learning
+
+Task 23
+Topics: Dataset Loading and Understanding Training, Validation and Test Sets
+
+
