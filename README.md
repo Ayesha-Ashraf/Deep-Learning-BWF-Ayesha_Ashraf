@@ -4,7 +4,7 @@ Deep learning tasks......
 
 Task 1:
 Topics:Starting with Git, Branching & Merging in Git
-Resource
+
 
 Task 02
 Topics: Remote Repositories in Git
@@ -73,4 +73,30 @@ Topics: Supervised, Unsupervised, Self-Supervised, and Reinforcement Learning
 Task 23
 Topics: Dataset Loading and Understanding Training, Validation and Test Sets
 
+Task 24
+Topics: Data Preprocessing and Feature Engineering
+
+Task 25
+Topics: Underfitting, Overfitting, and Regularization
+
+Task 26
+Topics: Understanding Optimizers, Last-layer Activations, Loss Functions and Evaluation Metrics
+
+Task 27
+Topics: Stacking Up Layers in a Neural Network (ANN)
+
+Task 28
+Topics: Convolutional Neural Networks (1D & 2D) & Pooling, Build a Convnet from Scratch using TensorFlow
+
+Task 29
+Topics: Using a Pre-Trained ConvNet Architecture Performing Feature Extraction and Fine Tuning
+
+Task 30
+Topics: Recurrent Neural Network, LSTM, GRU
+
+Task 31
+Topics: Applying One-Hot Encoding and Word Embeddings
+
+Task 32
+Topics: Building Hybrid Networks using CNN and LSTM
 
